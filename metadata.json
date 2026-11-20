@@ -1,0 +1,6 @@
+{
+  "name": "CropShield",
+  "description": "ระบบบริหารความเสี่ยงการเกษตรและสินเชื่ออัจฉริยะจากข้อมูลดาวเทียม NASA สำหรับเกษตรกรและสถาบันการเงิน (Field Shift: Adapting Farms with NASA Data)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
